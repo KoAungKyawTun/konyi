@@ -1,1 +1,8 @@
-Abcdesg
+
+{
+  "title": "This is Title!",
+  "msg": "This is Message",
+  "download_link": "Direct APK Download Link!!!",
+  "versionCode": 8,
+  "force": true
+}
