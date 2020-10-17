@@ -1,5 +1,5 @@
  { "title" : "New update available", 
 "message" : "- fixed some bugs\n - improved UI",
- "versionCode" : 2, 
+ "versionCode" : 4, 
 "force" : false,
- "link" : "https://jcsamples.000webhostapp.com/Update%20Sample/updateSample.apk" } 
+ "link" : "https://github.com/nyilinhtoon/konyi/blob/main/UpdateSample.apk" } 
