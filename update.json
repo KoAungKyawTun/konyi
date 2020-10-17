@@ -1,8 +1,5 @@
-
-{
-  "title": "This is Title!",
-  "msg": "This is Message",
-  "download_link": "https://www.mediafire.com/file/j490hedp2y333r2/KNGTEAM.apk/file",
-  "versionCode": 2,
-  "force": true
-}
+ { "title" : "New update available", 
+"message" : "- fixed some bugs\n - improved UI",
+ "versionCode" : 2, 
+"force" : false,
+ "link" : "https://jcsamples.000webhostapp.com/Update%20Sample/updateSample.apk" } 
