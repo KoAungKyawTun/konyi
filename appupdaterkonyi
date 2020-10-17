@@ -1,15 +1,5 @@
-{
-  "title": "This is Title!",
-  "message": "This is Message",
-  "download": "Direct APK Download Link!!!",
-  "playstore": "com.mgngoe.zfont",
-  "uninstall": false,
-  "what": {
-    "model": [],
-    "version": [],
-    "all": true
-  },
-  "versionName": "1.0",
-  "versionCode": 1,
-  "force": true
-}
+ { "title" : "New update available", 
+"message" : "- fixed some bugs\n - improved UI",
+ "versionCode" : 2, 
+"force" : false,
+ "link" : "https://www.mediafire.com/download/n4kjk6qpxth2op0" } 
