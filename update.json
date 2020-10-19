@@ -1,5 +1,5 @@
  { "title" : "New update available", 
 "message" : "- fixed some bugs\n - improved UI",
- "versionCode" : 2, 
-"force" : false,
+ "versionCode" : 3, 
+"force" : true,
  "link" : "https://www.mediafire.com/download/n4kjk6qpxth2op0" } 
